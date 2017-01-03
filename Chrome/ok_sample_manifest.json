@@ -1,0 +1,14 @@
+{
+  "name": "Great App Name",
+  "description": "Pithy description (132 characters or less, no HTML)",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://mysubdomain.example.com/"
+    ],
+    "launch": {
+      "web_url": "http://mysubdomain.example.com/"
+    }
+  }
+}
